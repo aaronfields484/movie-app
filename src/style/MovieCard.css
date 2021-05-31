@@ -1,0 +1,11 @@
+.movie-card {
+    background-color: #ff7e67;
+    border-radius: 1%;
+    margin: 1%;
+    padding: 5%;
+}
+
+.movie-card img {
+    border-radius: 1%;
+    
+}

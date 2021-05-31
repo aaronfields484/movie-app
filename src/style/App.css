@@ -1,0 +1,12 @@
+body {
+    background-color: #ecf4f3;
+    margin: 5% 7%;
+
+}
+
+.movie-cards {
+    display: flex;
+}
+
+
+
